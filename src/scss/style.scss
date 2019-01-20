@@ -1,0 +1,11 @@
+$color: red;
+
+body {
+    background: $color;
+    display: flex;
+    justify-content: flex-start;
+    a {
+        color: $color;
+        background: #fff;
+    }
+}
